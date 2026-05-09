@@ -1,0 +1,12 @@
+streamlit
+ultralytics
+torch
+sentence-transformers
+pythainlp
+opencv-python-headless
+matplotlib
+pandas
+openpyxl
+Pillow
+requests
+numpy
